@@ -14,6 +14,10 @@ infran.com 하울의 안드로이드 인스타그램 클론 만들기 참고
 ## 3. 구글 로그인
 - 구글 login button 이벤트 추가 및 파이어베이스로 사용 설정
 ## 4. 페이스북 로그인
+- facebook for developers에서 페이스북 연결
+- key hash facebook android에서 hash값 받아오기(stack overflow)
+- `fun printHashKey` 함수를 activity_login에 추가
+- 
 ## 5. 네이버 로그인
 ## 6. 메인 네비게이션 탭바
 ## 7. 사진 업로드 페이지
